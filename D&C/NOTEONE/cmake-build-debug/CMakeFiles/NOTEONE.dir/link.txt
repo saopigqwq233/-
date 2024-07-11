@@ -1,0 +1,3 @@
+D:\ProgramEnvs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\NOTEONE.dir/objects.a
+D:\ProgramEnvs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\NOTEONE.dir/objects.a @CMakeFiles\NOTEONE.dir\objects1.rsp
+D:\ProgramEnvs\CLion\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\NOTEONE.dir/objects.a -Wl,--no-whole-archive -o NOTEONE.exe -Wl,--out-implib,libNOTEONE.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\NOTEONE.dir\linkLibs.rsp
