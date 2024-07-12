@@ -57,7 +57,9 @@
 				2,
 				3,
 				4,
-				5
+				5,
+				6,
+				7
 			]
 		}
 	],
@@ -99,7 +101,9 @@
 				2,
 				3,
 				4,
-				5
+				5,
+				6,
+				7
 			]
 		}
 	],
@@ -139,6 +143,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "\u9012\u5f52/Pow(x,n).cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "\u4e8c\u53c9\u6df1\u641c/\u8ba1\u7b97\u5e03\u5c14\u4e8c\u53c9\u6811\u7684\u503c.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "\u4e8c\u53c9\u6df1\u641c/\u4e8c\u53c9\u6811\u526a.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

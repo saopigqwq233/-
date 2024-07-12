@@ -9,4 +9,6 @@ add_executable(dg main.cpp
         递归/反转链表.cpp
         递归/两两交换链表中的结点.cpp
         "递归/Pow(x,n).cpp"
+        二叉深搜/计算布尔二叉树的值.cpp
+        二叉深搜/二叉树剪.cpp
 )

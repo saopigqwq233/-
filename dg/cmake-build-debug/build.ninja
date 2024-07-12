@@ -85,6 +85,18 @@ build CMakeFiles/dg.dir/递归/Pow(x,n).cpp.obj: CXX_COMPILER__dg_unscanned_Debu
   OBJECT_DIR = CMakeFiles\dg.dir
   OBJECT_FILE_DIR = CMakeFiles\dg.dir\递归
 
+build CMakeFiles/dg.dir/二叉深搜/计算布尔二叉树的值.cpp.obj: CXX_COMPILER__dg_unscanned_Debug D$:/BITE/algorithm-collection/dg/二叉深搜/计算布尔二叉树的值.cpp || cmake_object_order_depends_target_dg
+  DEP_FILE = CMakeFiles\dg.dir\二叉深搜\计算布尔二叉树的值.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\dg.dir
+  OBJECT_FILE_DIR = CMakeFiles\dg.dir\二叉深搜
+
+build CMakeFiles/dg.dir/二叉深搜/二叉树剪.cpp.obj: CXX_COMPILER__dg_unscanned_Debug D$:/BITE/algorithm-collection/dg/二叉深搜/二叉树剪.cpp || cmake_object_order_depends_target_dg
+  DEP_FILE = CMakeFiles\dg.dir\二叉深搜\二叉树剪.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\dg.dir
+  OBJECT_FILE_DIR = CMakeFiles\dg.dir\二叉深搜
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target dg
@@ -93,7 +105,7 @@ build CMakeFiles/dg.dir/递归/Pow(x,n).cpp.obj: CXX_COMPILER__dg_unscanned_Debu
 #############################################
 # Link the executable dg.exe
 
-build dg.exe: CXX_EXECUTABLE_LINKER__dg_Debug CMakeFiles/dg.dir/main.cpp.obj CMakeFiles/dg.dir/递归/汉诺塔.cpp.obj CMakeFiles/dg.dir/递归/合并两个有序链表.cpp.obj CMakeFiles/dg.dir/递归/反转链表.cpp.obj CMakeFiles/dg.dir/递归/两两交换链表中的结点.cpp.obj CMakeFiles/dg.dir/递归/Pow(x,n).cpp.obj
+build dg.exe: CXX_EXECUTABLE_LINKER__dg_Debug CMakeFiles/dg.dir/main.cpp.obj CMakeFiles/dg.dir/递归/汉诺塔.cpp.obj CMakeFiles/dg.dir/递归/合并两个有序链表.cpp.obj CMakeFiles/dg.dir/递归/反转链表.cpp.obj CMakeFiles/dg.dir/递归/两两交换链表中的结点.cpp.obj CMakeFiles/dg.dir/递归/Pow(x,n).cpp.obj CMakeFiles/dg.dir/二叉深搜/计算布尔二叉树的值.cpp.obj CMakeFiles/dg.dir/二叉深搜/二叉树剪.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\dg.dir
