@@ -11,15 +11,13 @@ struct ListNode {
 class Solution {
 public:
     ListNode* _reverseList(ListNode* pre,ListNode*cur,ListNode*next){
-        if(cur->next == nullptr) {
-            if(pre)
-                pre->next= nullptr;
+        if(cur->next == nullptr) {//最后一个结点
             cur->next = pre;
             return cur;
         }
-        else{
+        else{//每到一个结点，先把后面的结点反转
             ListNode*ret = _reverseList(cur,cur->next,cur->next->next);
-            if(pre)
+            if(pre)//前面一个结点存在，防止只有一个结点的情况
                 pre->next= nullptr;
             cur->next = pre;
             return ret;
