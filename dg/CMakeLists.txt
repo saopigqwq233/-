@@ -7,6 +7,7 @@ add_executable(dg
         main.cpp
         栈/基本计算器.cpp
         递归/猴子碰撞的方法数.cpp
+        回溯/电话号码回溯.cpp
         #        递归/汉诺塔.cpp
 #        递归/合并两个有序链表.cpp
 #        递归/反转链表.cpp
