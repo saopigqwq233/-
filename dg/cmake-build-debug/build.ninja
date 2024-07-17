@@ -55,6 +55,18 @@ build CMakeFiles/dg.dir/main.cpp.obj: CXX_COMPILER__dg_unscanned_Debug D$:/BITE/
   OBJECT_DIR = CMakeFiles\dg.dir
   OBJECT_FILE_DIR = CMakeFiles\dg.dir
 
+build CMakeFiles/dg.dir/栈/基本计算器.cpp.obj: CXX_COMPILER__dg_unscanned_Debug D$:/BITE/algorithm-collection/dg/栈/基本计算器.cpp || cmake_object_order_depends_target_dg
+  DEP_FILE = CMakeFiles\dg.dir\栈\基本计算器.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\dg.dir
+  OBJECT_FILE_DIR = CMakeFiles\dg.dir\栈
+
+build CMakeFiles/dg.dir/递归/猴子碰撞的方法数.cpp.obj: CXX_COMPILER__dg_unscanned_Debug D$:/BITE/algorithm-collection/dg/递归/猴子碰撞的方法数.cpp || cmake_object_order_depends_target_dg
+  DEP_FILE = CMakeFiles\dg.dir\递归\猴子碰撞的方法数.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\dg.dir
+  OBJECT_FILE_DIR = CMakeFiles\dg.dir\递归
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target dg
@@ -63,7 +75,7 @@ build CMakeFiles/dg.dir/main.cpp.obj: CXX_COMPILER__dg_unscanned_Debug D$:/BITE/
 #############################################
 # Link the executable dg.exe
 
-build dg.exe: CXX_EXECUTABLE_LINKER__dg_Debug CMakeFiles/dg.dir/main.cpp.obj
+build dg.exe: CXX_EXECUTABLE_LINKER__dg_Debug CMakeFiles/dg.dir/main.cpp.obj CMakeFiles/dg.dir/栈/基本计算器.cpp.obj CMakeFiles/dg.dir/递归/猴子碰撞的方法数.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\dg.dir

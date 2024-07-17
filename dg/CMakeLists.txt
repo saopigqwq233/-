@@ -5,7 +5,9 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(dg
         main.cpp
-#        递归/汉诺塔.cpp
+        栈/基本计算器.cpp
+        递归/猴子碰撞的方法数.cpp
+        #        递归/汉诺塔.cpp
 #        递归/合并两个有序链表.cpp
 #        递归/反转链表.cpp
 #        递归/两两交换链表中的结点.cpp
