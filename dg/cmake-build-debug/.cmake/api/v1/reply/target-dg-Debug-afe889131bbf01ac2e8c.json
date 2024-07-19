@@ -53,9 +53,7 @@
 			"sourceIndexes" : 
 			[
 				0,
-				1,
-				2,
-				3
+				1
 			]
 		}
 	],
@@ -93,9 +91,7 @@
 			"sourceIndexes" : 
 			[
 				0,
-				1,
-				2,
-				3
+				1
 			]
 		}
 	],
@@ -110,19 +106,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "\u6808/\u57fa\u672c\u8ba1\u7b97\u5668.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "\u9012\u5f52/\u7334\u5b50\u78b0\u649e\u7684\u65b9\u6cd5\u6570.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "\u56de\u6eaf/\u7535\u8bdd\u53f7\u7801\u56de\u6eaf.cpp",
+			"path" : "\u9012\u5f52/\u56de\u6587\u94fe\u8868.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
