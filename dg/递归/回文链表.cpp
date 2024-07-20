@@ -11,6 +11,8 @@ struct ListNode {
 class Solution {
 
 
+
+
 public:
     ListNode* cur;
     bool flag;
