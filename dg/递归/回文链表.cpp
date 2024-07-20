@@ -16,6 +16,8 @@ public:
         if(!right->next){//最后的结点
             flag = (cur->val==right->val);
             cur = cur->next;
+
+
             return;
         }
         _isPalindrome(right->next);
