@@ -6,6 +6,12 @@ set(CMAKE_CXX_STANDARD 17)
 add_executable(dg
         main.cpp
         递归/回文链表.cpp
+        递归/消除游戏.cpp
+        labuladong/双指针/环形链表.cpp
+        labuladong/双指针/环形链表2.cpp
+        labuladong/双指针/相交链表.cpp
+        labuladong/双指针/删除倒数第N个结点.cpp
+        labuladong/双指针/合并K个有序链表.cpp
         #        栈/基本计算器.cpp
 #        递归/猴子碰撞的方法数.cpp
 #        回溯/电话号码回溯.cpp

@@ -9,10 +9,6 @@ struct ListNode {
 //1.外部变量保存前半部分结点
 //2.递归到最后开始比较
 class Solution {
-
-
-
-
 public:
     ListNode* cur;
     bool flag;
