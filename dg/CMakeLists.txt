@@ -16,6 +16,7 @@ add_executable(dg
         labuladong/双指针/两数之和.cpp
         labuladong/双指针/移除元素.cpp
         zcy/算法入门/162寻找峰值.cpp
+        zcy/算法入门/94中序遍历.cpp
         #        栈/基本计算器.cpp
 #        递归/猴子碰撞的方法数.cpp
 #        回溯/电话号码回溯.cpp
