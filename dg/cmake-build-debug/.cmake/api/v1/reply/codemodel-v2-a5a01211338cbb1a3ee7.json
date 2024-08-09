@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/BITE/algorithm-collection/dg/cmake-build-debug",
-		"source" : "D:/BITE/algorithm-collection/dg"
+		"build" : "C:/bite/algorithm-collection/dg/cmake-build-debug",
+		"source" : "C:/bite/algorithm-collection/dg"
 	},
 	"version" : 
 	{

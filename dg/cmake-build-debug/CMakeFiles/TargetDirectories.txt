@@ -1,3 +1,3 @@
-D:/BITE/algorithm-collection/dg/cmake-build-debug/CMakeFiles/dg.dir
-D:/BITE/algorithm-collection/dg/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/BITE/algorithm-collection/dg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/bite/algorithm-collection/dg/cmake-build-debug/CMakeFiles/dg.dir
+C:/bite/algorithm-collection/dg/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/bite/algorithm-collection/dg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
