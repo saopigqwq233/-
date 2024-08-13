@@ -23,6 +23,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/dg.dir/zcy/算法入门/94中序遍历.cpp.obj.d"
   "CMakeFiles/dg.dir/zcy/算法入门/后序遍历.cpp.obj"
   "CMakeFiles/dg.dir/zcy/算法入门/后序遍历.cpp.obj.d"
+  "CMakeFiles/dg.dir/每日大赛/特殊数组.cpp.obj"
+  "CMakeFiles/dg.dir/每日大赛/特殊数组.cpp.obj.d"
   "CMakeFiles/dg.dir/递归/回文链表.cpp.obj"
   "CMakeFiles/dg.dir/递归/回文链表.cpp.obj.d"
   "CMakeFiles/dg.dir/递归/消除游戏.cpp.obj"

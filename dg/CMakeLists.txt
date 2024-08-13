@@ -18,6 +18,7 @@ add_executable(dg
         zcy/算法入门/162寻找峰值.cpp
         zcy/算法入门/94中序遍历.cpp
         zcy/算法入门/后序遍历.cpp
+        每日大赛/特殊数组.cpp
         #        栈/基本计算器.cpp
 #        递归/猴子碰撞的方法数.cpp
 #        回溯/电话号码回溯.cpp

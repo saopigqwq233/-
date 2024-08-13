@@ -118,6 +118,9 @@
 		<Unit filename="C:/bite/algorithm-collection/dg/zcy/算法入门/后序遍历.cpp">
 			<Option target="dg"/>
 		</Unit>
+		<Unit filename="C:/bite/algorithm-collection/dg/每日大赛/特殊数组.cpp">
+			<Option target="dg"/>
+		</Unit>
 		<Unit filename="C:/bite/algorithm-collection/dg/递归/回文链表.cpp">
 			<Option target="dg"/>
 		</Unit>
