@@ -416,6 +416,30 @@ zcy/算法入门/后序遍历.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dg.dir\build.make CMakeFiles/dg.dir/zcy/算法入门/后序遍历.cpp.s
 .PHONY : zcy/算法入门/后序遍历.cpp.s
 
+动态规划/学生出勤记录.obj: 动态规划/学生出勤记录.cpp.obj
+.PHONY : 动态规划/学生出勤记录.obj
+
+# target to build an object file
+动态规划/学生出勤记录.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dg.dir\build.make CMakeFiles/dg.dir/动态规划/学生出勤记录.cpp.obj
+.PHONY : 动态规划/学生出勤记录.cpp.obj
+
+动态规划/学生出勤记录.i: 动态规划/学生出勤记录.cpp.i
+.PHONY : 动态规划/学生出勤记录.i
+
+# target to preprocess a source file
+动态规划/学生出勤记录.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dg.dir\build.make CMakeFiles/dg.dir/动态规划/学生出勤记录.cpp.i
+.PHONY : 动态规划/学生出勤记录.cpp.i
+
+动态规划/学生出勤记录.s: 动态规划/学生出勤记录.cpp.s
+.PHONY : 动态规划/学生出勤记录.s
+
+# target to generate assembly for a file
+动态规划/学生出勤记录.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dg.dir\build.make CMakeFiles/dg.dir/动态规划/学生出勤记录.cpp.s
+.PHONY : 动态规划/学生出勤记录.cpp.s
+
 每日大赛/搜索二叉树最小值.obj: 每日大赛/搜索二叉树最小值.cpp.obj
 .PHONY : 每日大赛/搜索二叉树最小值.obj
 
@@ -557,6 +581,9 @@ help:
 	@echo ... zcy/算法入门/后序遍历.obj
 	@echo ... zcy/算法入门/后序遍历.i
 	@echo ... zcy/算法入门/后序遍历.s
+	@echo ... 动态规划/学生出勤记录.obj
+	@echo ... 动态规划/学生出勤记录.i
+	@echo ... 动态规划/学生出勤记录.s
 	@echo ... 每日大赛/搜索二叉树最小值.obj
 	@echo ... 每日大赛/搜索二叉树最小值.i
 	@echo ... 每日大赛/搜索二叉树最小值.s
