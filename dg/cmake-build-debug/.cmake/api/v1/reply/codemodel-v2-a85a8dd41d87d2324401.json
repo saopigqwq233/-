@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "dg::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-dg-Debug-14657a972a913a6beee9.json",
+					"jsonFile" : "target-dg-Debug-aa280b1a21423f51f3d4.json",
 					"name" : "dg",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/BITE/algorithm-collection/dg/cmake-build-debug",
-		"source" : "D:/BITE/algorithm-collection/dg"
+		"build" : "C:/bite/algorithm-collection/dg/cmake-build-debug",
+		"source" : "C:/bite/algorithm-collection/dg"
 	},
 	"version" : 
 	{

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="dg"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/bite/algorithm-collection/dg/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/bite/algorithm-collection/dg/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/bite/algorithm-collection/dg/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/bite/algorithm-collection/dg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/bite/algorithm-collection/dg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dg">
+				<Option output="C:/bite/algorithm-collection/dg/cmake-build-debug/dg.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/bite/algorithm-collection/dg/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/bite/algorithm-collection/dg/cmake-build-debug/Makefile&quot;  VERBOSE=1 dg"/>
+					<CompileFile command="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/bite/algorithm-collection/dg/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/bite/algorithm-collection/dg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/bite/algorithm-collection/dg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dg/fast">
+				<Option output="C:/bite/algorithm-collection/dg/cmake-build-debug/dg.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/bite/algorithm-collection/dg/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/bite/algorithm-collection/dg/cmake-build-debug/Makefile&quot;  VERBOSE=1 dg/fast"/>
+					<CompileFile command="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/bite/algorithm-collection/dg/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/bite/algorithm-collection/dg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/bite/algorithm-collection/dg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/bite/algorithm-collection/dg/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/bite/algorithm-collection/dg/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/bite/algorithm-collection/dg/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/bite/algorithm-collection/dg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/bite/algorithm-collection/dg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/bite/algorithm-collection/dg/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/bite/algorithm-collection/dg/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/bite/algorithm-collection/dg/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/bite/algorithm-collection/dg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liu15/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/bite/algorithm-collection/dg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/bite/algorithm-collection/dg/labuladong/双指针/两数之和.cpp">
+			<Option target="dg"/>
+		</Unit>
+		<Unit filename="C:/bite/algorithm-collection/dg/labuladong/双指针/分隔链表.cpp">
+			<Option target="dg"/>
+		</Unit>
+		<Unit filename="C:/bite/algorithm-collection/dg/labuladong/双指针/删除倒数第N个结点.cpp">
+			<Option target="dg"/>
+		</Unit>
+		<Unit filename="C:/bite/algorithm-collection/dg/labuladong/双指针/合并K个有序链表.cpp">
+			<Option target="dg"/>
+		</Unit>
+		<Unit filename="C:/bite/algorithm-collection/dg/labuladong/双指针/环形链表.cpp">
+			<Option target="dg"/>
+		</Unit>
+		<Unit filename="C:/bite/algorithm-collection/dg/labuladong/双指针/环形链表2.cpp">
+			<Option target="dg"/>
+		</Unit>
+		<Unit filename="C:/bite/algorithm-collection/dg/labuladong/双指针/相交链表.cpp">
+			<Option target="dg"/>
+		</Unit>
+		<Unit filename="C:/bite/algorithm-collection/dg/labuladong/双指针/移除元素.cpp">
+			<Option target="dg"/>
+		</Unit>
+		<Unit filename="C:/bite/algorithm-collection/dg/main.cpp">
+			<Option target="dg"/>
+		</Unit>
+		<Unit filename="C:/bite/algorithm-collection/dg/zcy/算法入门/162寻找峰值.cpp">
+			<Option target="dg"/>
+		</Unit>
+		<Unit filename="C:/bite/algorithm-collection/dg/zcy/算法入门/94中序遍历.cpp">
+			<Option target="dg"/>
+		</Unit>
+		<Unit filename="C:/bite/algorithm-collection/dg/zcy/算法入门/后序遍历.cpp">
+			<Option target="dg"/>
+		</Unit>
+		<Unit filename="C:/bite/algorithm-collection/dg/动态规划/学生出勤记录.cpp">
+			<Option target="dg"/>
+		</Unit>
+		<Unit filename="C:/bite/algorithm-collection/dg/每日大赛/搜索二叉树最小值.cpp">
+			<Option target="dg"/>
+		</Unit>
+		<Unit filename="C:/bite/algorithm-collection/dg/每日大赛/特殊数组.cpp">
+			<Option target="dg"/>
+		</Unit>
+		<Unit filename="C:/bite/algorithm-collection/dg/递归/回文链表.cpp">
+			<Option target="dg"/>
+		</Unit>
+		<Unit filename="C:/bite/algorithm-collection/dg/递归/消除游戏.cpp">
+			<Option target="dg"/>
+		</Unit>
+		<Unit filename="C:/bite/algorithm-collection/dg/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
