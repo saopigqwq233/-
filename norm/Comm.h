@@ -30,5 +30,16 @@ class ListNode {
 };
 
 
+class TreeNode {
+public:
+    int val;
+    TreeNode *left, *right;
+    TreeNode(int val) {
+        this->val = val;
+        this->left = this->right = NULL;
+    }
+}
+
+
 
 #endif //HOMEWORK1_COMM_H
